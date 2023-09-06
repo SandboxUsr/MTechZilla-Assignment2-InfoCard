@@ -1,5 +1,5 @@
-### GitHub User Card Generator
+# GitHub User Card Generator
 
 ## Deployed Link: 
 
-# https://sparkly-mandazi-048682.netlify.app
+https://sparkly-mandazi-048682.netlify.app
